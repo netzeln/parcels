@@ -1,0 +1,17 @@
+Is the Github documentation - commits and README - thorough and descriptive?
+They are! No README though. Small project. Probably not necessary.
+
+Is the code easy to read (good indentation, spacing, naming)?
+Lacking 4 space indentation. Otherwise everything looks good.
+
+Were branching and looping used effectively?
+Yes.
+
+Is the web page(s) styled using Bootstrap and CSS?
+Styled with Bootstrap. No CSS for this project.
+
+Is the site user-friendly?
+Strange semi-colons on form labels. Check .html file for comments.
+
+Do you have any additional constructive criticism or positive feedback to share?
+You guys are awesome!
